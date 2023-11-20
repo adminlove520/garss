@@ -7,7 +7,6 @@
 ![](https://cdn.jsdelivr.net/gh/zhaoolee/garss/_media/ga-rss.png)
 
 这个名为**嘎!RSS**的项目会利用免费的Github Actions服务, 提供一个内容全面的信息流, 让现代人的知识体系更广泛, 减弱信息茧房对现代人的影响, 让**非茧房信息流**造福人类~
-[《嘎!RSS》永久开源页面: Github](https://github.com/adminlove520/garss)
 
 
 ## 主要功能
